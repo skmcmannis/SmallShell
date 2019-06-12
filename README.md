@@ -1,3 +1,5 @@
+# Small Shell
+
 A Unix shell meant to run on Bash. Runs Unix programs. Supports I/O redirect and background processing.
 
 Built-in Commands:
