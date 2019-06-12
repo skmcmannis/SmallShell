@@ -4,7 +4,6 @@
 // 'cd' - Changes the workind directory of the shell. Defaults to HOME if no argument is supplied
 // 'status' - Prints the exit status or terminating signal of the last foreground process
 //Author: Shawn McMannis
-//CS 344 Operating Systems
 //Last mod date: 5/23/2019
 
 
